@@ -1,0 +1,15 @@
+City,Zone,Ward Name,Ward No.,No. Notified Slums,No. of Recognised Slums,No. of Identfied Slums,Slum Population - Total,Slum Population - Male,Slum Population - Female,Slum Population - Child (0-6),Population - SC Category,Population - ST Category,Literacy Rate (%)
+Pune,Zone 1,Nagar Road,1,18,24,NA,6429,3476,2953,694,990,213,4616
+Pune,Zone  1,Yerwada Kalas Dhanori,2,10,17,NA,5549,3057,2492,599,211,48,3984
+Pune,Zone  1,Dhole Patil,3,6,8,NA,2913,1911,1002,314,84,2,2092
+Pune,Zone  2,Aund Baner,4,5,11,NA,2917,1566,1351,315,180,36,2094
+Pune,Zone  2,Shivajinagar Ghole road,5,9,21,NA,5914,1794,4120,638,13693,887,4246
+Pune,Zone 2,Kothrud Bawdhan,6,3,7,NA,5669,1452,4217,612,201,7,4070
+Pune,Zone 3,Dhankawadi Sahakarnagar,7,6,6,NA,2313,1052,1261,250,244,0,1661
+Pune,Zone 3,Warje Karvenagar,9,13,22,NA,5447,2624,2823,588,1994,85,3911
+Pune,Zone 4,Hadpasar Mundhwa,10,18,22,NA,6262,2702,3560,676,2350,96,4496
+Pune,Zone 4,Wanawadi Ramtekadi,11,2,5,NA,1272,624,648,137,502,14,913
+Pune,Zone 4,Kondava-Yewalewadi,12,8,19,NA,2913,1528,1385,314,504,57,2092
+Pune,Zone 5,Kasaba Vishrambaug,13,2,4,NA,866,478,388,93,179,0,622
+Pune,Zone 5,Bavani peth,14,2,4,NA,500,391,109,54,70,6,359
+Pune,Zone 5,Bibwewadi,15,5,7,NA,2497,1047,1450,269,5969,835,1793
